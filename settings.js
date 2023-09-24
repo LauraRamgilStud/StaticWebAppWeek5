@@ -1,1 +1,1 @@
-export const SERVER_URL = "http://cars-lr.azurewebsites.net/api/cars";
+export const SERVER_URL = "https://cars-lr.azurewebsites.net/api/cars";
