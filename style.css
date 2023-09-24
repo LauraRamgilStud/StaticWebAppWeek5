@@ -1,0 +1,26 @@
+.ex-one {
+  width: 100px;
+  margin: 1px;
+}
+
+.my-div {
+  width: 25px;
+  height: 25px;
+  background-color: red;
+  margin: 1px;
+}
+
+.container {
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+span {
+  display: inline-block;
+  width: 20em;
+  margin-top: 10px;
+}
+
+.ex-three-div {
+  margin-top: 1em;
+}
